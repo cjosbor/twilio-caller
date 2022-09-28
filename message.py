@@ -8,8 +8,8 @@ from requests.auth import HTTPBasicAuth
 
 # Your Account Sid and Auth Token from twilio.com/console
 # DANGER! This is insecure. See http://twil.io/secure
-account_sid = 'AC57bc749eab01cd497d2093b28b33dd23'
-auth_token = '317463371bcb7b141bc963714b2ab1e3'
+account_sid =
+auth_token =
 
 
 
