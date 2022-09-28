@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/twilio.iml" filepath="$PROJECT_DIR$/.idea/twilio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/twilio-caller.iml" filepath="$PROJECT_DIR$/.idea/twilio-caller.iml" />
     </modules>
   </component>
 </project>
